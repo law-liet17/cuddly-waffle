@@ -1,0 +1,20 @@
+ body {
+        background-image: url('day.jpg'); 
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        height: 100vh; 
+        margin: 0; 
+        
+        transition: background-image 0.5s ease-in-out;
+              
+      }
+.one{position: relative;}
+button{
+        position: absolute;
+        left: 45%;
+        top: 210px;
+        color: #000000;
+        background-color: rgb(255, 206, 46);
+
+}
